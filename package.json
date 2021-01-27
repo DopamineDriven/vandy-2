@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DopamineDriven/vandy-2/issues"
   },
-  "homepage": "https://github.com/DopamineDriven/vandy-2#readme"
+  "homepage": "https://github.com/DopamineDriven/vandy-2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
